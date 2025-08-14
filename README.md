@@ -50,14 +50,10 @@ Given the medical context, **recall** for the positive class (diabetes) is prior
 4. **Evaluation** — cross-validation on the training set, predictions & metrics on the test set.
 5. **Model Selection** — sorting results by **recall for Class 1** (diabetes).
 
-## 🔍 Next Steps
-- Hyperparameter tuning with recall-focused scoring
-- Probability threshold adjustments to boost sensitivity
-- Explore ensemble stacking for performance gains
 
-## 📜 License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+
 
 ---
-**Author:** Devraai  
+**Author:** Ali Abdollahi  
 📧 *[Your email or contact info if you wish]*  
